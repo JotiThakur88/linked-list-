@@ -10,6 +10,7 @@ leetcode to github
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JotiThakur88/linked-list-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/JotiThakur88/linked-list-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/JotiThakur88/linked-list-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,5 @@ leetcode to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JotiThakur88/linked-list-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
