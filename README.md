@@ -9,6 +9,7 @@ leetcode to github
 | [0002-add-two-numbers](https://github.com/JotiThakur88/linked-list-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JotiThakur88/linked-list-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/JotiThakur88/linked-list-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/JotiThakur88/linked-list-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/JotiThakur88/linked-list-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -28,4 +29,16 @@ leetcode to github
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JotiThakur88/linked-list-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JotiThakur88/linked-list-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JotiThakur88/linked-list-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JotiThakur88/linked-list-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
