@@ -23,6 +23,7 @@ leetcode to github
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JotiThakur88/linked-list-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JotiThakur88/linked-list-/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ leetcode to github
 | [0142-linked-list-cycle-ii](https://github.com/JotiThakur88/linked-list-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/JotiThakur88/linked-list-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JotiThakur88/linked-list-/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +81,8 @@ leetcode to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JotiThakur88/linked-list-/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 <!---LeetCode Topics End-->
