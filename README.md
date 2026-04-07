@@ -17,10 +17,12 @@ leetcode to github
 | [0206-reverse-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JotiThakur88/linked-list-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/JotiThakur88/linked-list-/tree/main/0002-add-two-numbers/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JotiThakur88/linked-list-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
