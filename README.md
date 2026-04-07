@@ -25,6 +25,7 @@ leetcode to github
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JotiThakur88/linked-list-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JotiThakur88/linked-list-/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ leetcode to github
 | [0160-intersection-of-two-linked-lists](https://github.com/JotiThakur88/linked-list-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
