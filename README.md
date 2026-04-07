@@ -15,6 +15,7 @@ leetcode to github
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JotiThakur88/linked-list-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/JotiThakur88/linked-list-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -28,11 +29,13 @@ leetcode to github
 | [0024-swap-nodes-in-pairs](https://github.com/JotiThakur88/linked-list-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/JotiThakur88/linked-list-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JotiThakur88/linked-list-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/JotiThakur88/linked-list-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -50,4 +53,8 @@ leetcode to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/JotiThakur88/linked-list-/tree/main/0141-linked-list-cycle/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
