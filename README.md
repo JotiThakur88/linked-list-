@@ -19,6 +19,7 @@ leetcode to github
 | [0203-remove-linked-list-elements](https://github.com/JotiThakur88/linked-list-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0706-design-hashmap](https://github.com/JotiThakur88/linked-list-/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JotiThakur88/linked-list-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -66,6 +67,7 @@ leetcode to github
 | [0141-linked-list-cycle](https://github.com/JotiThakur88/linked-list-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/JotiThakur88/linked-list-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/JotiThakur88/linked-list-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0706-design-hashmap](https://github.com/JotiThakur88/linked-list-/tree/main/0706-design-hashmap/) | Easy |
 | [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JotiThakur88/linked-list-/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Stack
@@ -75,6 +77,7 @@ leetcode to github
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0706-design-hashmap](https://github.com/JotiThakur88/linked-list-/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0707-design-linked-list/) | Medium |
 | [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
 ## Doubly-Linked List
@@ -84,5 +87,10 @@ leetcode to github
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0706-design-hashmap](https://github.com/JotiThakur88/linked-list-/tree/main/0706-design-hashmap/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JotiThakur88/linked-list-/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/JotiThakur88/linked-list-/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
