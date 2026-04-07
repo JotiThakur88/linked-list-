@@ -19,6 +19,7 @@ leetcode to github
 | [0203-remove-linked-list-elements](https://github.com/JotiThakur88/linked-list-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0707-design-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JotiThakur88/linked-list-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
@@ -72,6 +73,7 @@ leetcode to github
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0707-design-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0707-design-linked-list/) | Medium |
 | [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
