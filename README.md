@@ -18,6 +18,7 @@ leetcode to github
 | [0234-palindrome-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JotiThakur88/linked-list-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,8 +56,17 @@ leetcode to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/JotiThakur88/linked-list-/tree/main/0141-linked-list-cycle/) | Easy |
+| [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/JotiThakur88/linked-list-/tree/main/0234-palindrome-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1797-design-authentication-manager](https://github.com/JotiThakur88/linked-list-/tree/main/1797-design-authentication-manager/) | Medium |
 <!---LeetCode Topics End-->
